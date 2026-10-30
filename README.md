@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prédiction du devenir académique des étudiants
 
 > Projet de data science visant à estimer le devenir académique d’un étudiant afin d’aider les équipes pédagogiques à repérer plus tôt les besoins d’accompagnement.
@@ -121,3 +122,7 @@ student_dropout_prediction/
 ├── powerbi/          # rapports Power BI
 └── tests/            # tests du projet
 ```
+=======
+# student_dropout_prediction
+construire une solution capable d’estimer si un étudiant est susceptible d’abandonner ses études, de rester inscrit ou d’obtenir son diplôme, afin d’aider les équipes pédagogiques à mieux accompagner les étudiants.
+>>>>>>> 4222fb332fc121d4e1a0767b1019d2525e6817f4
